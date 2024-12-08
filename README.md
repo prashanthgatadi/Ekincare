@@ -1,3 +1,3 @@
 # Ekincare
 Ekincare Project
-Prashanth Gatadi --> Salesforce Developer
+Prashanth Gatadi <br>  Salesforce Developer
